@@ -129,6 +129,7 @@ return-of-inflation
 productivity-failure-behind-inflation
 energy-squeeze-inflation
 supply-side-pressure
+lack-of-inflation-theory
 innovation
 us-vs-scandinavia
 interest-rate

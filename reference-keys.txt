@@ -96,6 +96,9 @@ human-needs
 aggregate-demand-function
 business-cycles
 real-buciness-cycle---rbc
+long-transistory-theory
+hybrid-theory
+the-magic-of-expectations-management
 competition
 currencies
 exchange-rate

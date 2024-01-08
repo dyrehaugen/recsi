@@ -155,6 +155,7 @@ savings
 technology-policy
 trade
 absolute-advantage
+comparative-advantage
 supply-lines
 trading-partners
 china-is-changing-trade-partners
